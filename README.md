@@ -2,4 +2,4 @@
 tracking x y coordinate
 
 
-https://jungwonjung.github.io/youtube-clone-html-css/
+https://jungwonjung.github.io/tracking-x-y-coordinate/
